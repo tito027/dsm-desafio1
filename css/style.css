@@ -9576,14 +9576,14 @@ h6,
 .service-item .service-text {
   position: absolute;
   width: 100%;
-  height: calc(100% + 86px);
+  height: calc(100% + 96px);
   top: 0;
   left: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  background: rgba(33, 30, 28, 0.5);
+  background: rgba(254, 241, 239, 0.3);
   transition: .5s;
   z-index: 1;
 }
